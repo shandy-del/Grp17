@@ -152,4 +152,24 @@
         </td>
         <td>No.1, S+, I LIKE HORROR!</td>
     </tr>
+    <tr>
+        <td>The Binding of Issac(以撒的燔祭)</td>
+        <td>Rougelike, Items stack, Leveling clearing</td>
+        <td>
+            1.God like games! Amazing story and items-mingle systems, player acts as Issac, a kid living with his mother, and endures the suffer of their family, he got into sever mental health and illusion, he created many monsters in his mind and think about his mother the boss, so he use his tears to defeat all the enermies.<br>
+            2.Randomly shuufle levels and items, and almost every items mingled together has amazing effects.<br>
+            3.Meaningful monsters and the boss, quite creative.<br>
+            4.Simulation system, update the skills, dresses up and so on.
+        </td>
+        <td>
+            Not big problem about it, the only pity is that the boss is too limit if you play 3000 times ;)
+        </td>
+        <td>
+            1.Combine it will Hollow Knight, 2D jump game like with multiple items and effects. All right almost Nion Abyss!
+            2.Create more random maps, include some in-destroyable obstacles or some sand-box like stuff. (like Noita)
+            3.New bosses, who can even change the maps and the difficulties, like DELIRIUM(百变怪).
+            4.To fit the p5.js platform, maybe proceed to the boss level, like Hollow knight vs Radian!
+        </td>
+        <td>No.2, S, Seems really accessible.</td>
+    </tr>
 </table>
