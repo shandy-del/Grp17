@@ -131,4 +131,24 @@
         </td>
         <td>No.1, S++, to run in p5.js, can simplify it more.</td>
     </tr>
+    <tr>
+        <td>PacMan(吃豆人)</td>
+        <td>Chasing</td>
+        <td>
+            1.Really classic, control the pucman to eat all the food and prevented to be caught by the ghosts.<br>
+            2.The less move you do, the more score you will get.
+        </td>
+        <td>
+            1.As the game goes by, the number of ghosts will be increased.<br>
+            2.The speed of the ghost will be up.<br>
+            3.Need to make proper stratagies in the latter process.
+        </td>
+        <td>
+            1.Replace the ghost with the horror characters, including SCP, backroom, movies, FANF, poppy playtime and so on.<br>
+            2.Narrow the sightseeing, like can only see the limit boundary to increase horror feeling.<br>
+            3.Add some items to improve the abilities, like flashlight, gun, dress-up, shelter.<br>
+            4.***If is possible, make it in 3D will be more immersing!
+        </td>
+        <td>No.1, S+, I LIKE HORROR!</td>
+    </tr>
 </table>
