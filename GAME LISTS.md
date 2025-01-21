@@ -64,17 +64,48 @@
     <tr>
         <td>Don't Starve(饥荒)</td>
         <td>Survival</td>
-        <td>row 1, cell 2</td>
-        <td>row 1, cell 2</td>
-        <td>row 1, cell 2</td>
-        <td>row 1, cell 2</td>
+        <td>
+            1.The players have mutiple attributes, like HP, stimina, food, sansity, lone and so on, what need to do is do any thing to make all the attribute in function.<br>
+            2.Construction system, incluing house-construction, arms-upgrate, armor-upgrate.<br>
+            3.Collection system, get enough ingredients to suivive or upgrade.<br>
+            4.Random surrounding and enemies, food is everywhere and enermies is around the corner.<br>
+            5.Explore 4Fun, the map is big enough for explore, but mind your hunger and sans and lone ;)
+        </td>
+        <td>
+            1.Boss is too tough for beginners. Without wiki it seems impossible to deal with even a hound.<br>
+            2.Limit way to cure the sans, especially in the beginning.<br>
+            3.Bored when you get everything, it will get into a citcle and seems sad to play it on your own.
+        </td>
+        <td>
+            1.Simplified, based on StackLand, using more simple stuff to achieve the same goals. (Survival)<br>
+            2.Emphase the factor of survival. Cut off those unrealistc items like Moon Island. <br>
+            3.Make sans duration more esssantial. For those who survive in island, the first is food and health and the second will be dealing with lone and sans loss.(Can adapt Robinson Crusoe)<br>
+            4.Replace the enermies with the lifestock like lion, wolf even mammoth and dinasour.<br>
+            5.Simplied the constrcution systems and base on reality logic.
+        </td>
+        <td>No.4, A, tricky to make it fun enough</td>
     </tr>
     <tr>
-        <td>row 2, cell 1</td>
-        <td>row 2, cell 2</td>
-        <td>row 1, cell 2</td>
-        <td>row 1, cell 2</td>
-        <td>row 1, cell 2</td>
-        <td>row 1, cell 2</td>
+        <td>Streets of Rouge(地痞街区)</td>
+        <td>Crime, Rougelike, Survival</td>
+        <td>
+            1.Pixel! Cute and simple enough for art design.<br>
+            2.Multiple choice for players, to be a batman or joker depends on your thought.<br>
+            3.Accessible to the taboo. Drugs, gun, smuggling, mafia and gangsters seens secret and untouchable for normal people, but it provide the platform to try them.<br>
+            4.High iteraction with AI and NPC, high freedom in socical needs, can do whatever players want.
+            5.Survival can be so fun, even violence can be avoided, using social skill to mingle with white and black.
+        </td>
+        <td>
+            1.Complex to achieve high iteraction with NPC in p5.js. Maybe do with the trading systems can be accessible. (like Drug Dealer Simulator)<br>
+            2.Too much choices for players, too much work for developer:(<br>
+        </td>
+        <td>
+            1.Limit the characters, for good, like doctor, normal, soldiers. for bad, gangster, killer, member and so on.<br>
+            2.Concentrate to <strong>CRIME</strong>, or <strong>WAR</strong>, choose the part and fight with the others.<br>
+            3.Add more crime and make it in more detail.<br>
+            4.Add random incidents, like earthquake, flood, mutiplekiller appeared, wanted rewards.<br>
+            5.Make it happened in Mid-Age or so, it will naturally add much limit to the whole game.
+        </td>
+        <td>No.2, S+, seems accessible</td>
     </tr>
 </table>
