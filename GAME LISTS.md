@@ -1,9 +1,10 @@
 <h1 align="CENTER"> My Game Inspiration List </h1>
-<h2 align="LEFT">Readme</h2><br>
+<h2 align="LEFT">Readme</h2>
 <p>
     1."Challenge" means why it is hard to play and whether it is easy to transform to p5.js.<br>
     2."Rank" includes the rank in my mind to achieve in p5.js, the second char is the rate of recommandation.<br>
 </p>
+<h2 align="LEFT">Table</h2>
 <table border="1">
     <tr>
         <th>Game Name</th>
