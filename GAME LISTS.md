@@ -108,4 +108,27 @@
         </td>
         <td>No.2, S+, seems accessible</td>
     </tr>
+    <tr>
+        <td>Brotato(土豆兄弟)</td>
+        <td>Shooting, Rougelike</td>
+        <td>
+            1.Choose one of the character and use weapons to defeat the enermise, the more rounds you survive, the more rewards you will get.<br>
+            2.Cool weapons systems, there are mutiple choices for guns and magic wands and other stuff, this can be modified.<br>
+            3.Owning skills at the beginning, every characters has different skills.<br>
+            4.Linear difficulty level, the enermies appear in mild way, but it fully challenge the way you go and the strategies.
+        </td>
+        <td>
+            1.Extremely hard when 20+ rounds.<br>
+            2.Enermies AI and animations can be tricky.<br>
+            3.Some of the items is truly useless.
+        </td>
+        <td>
+            1.Design cool boss, not all the nermies are minions.
+            2.***Can combined it with Total War shogun and PolandBall, basically there is a map with several areas and several clans, you are one of it. Your goal is to conquer the other's area. And when you do it, it will jump to the Brotato system, you and your soiliers defeats the others(including the boss, aka general), the winner and get the areas.
+            3.The protocal and betray system can be added, the former can influence the affinity with the others, and the latter can be treated as the random inccidents.<br>
+            4.Set the whole story in the utopia universal, more items and clans can be added.<br>
+            5.Characters or clans designed can be done in pixel, it will be fun and easy.
+        </td>
+        <td>No.1, S++, to run in p5.js, can simplify it more.</td>
+    </tr>
 </table>
